@@ -11,7 +11,7 @@ const Search = () => {
 					Any Week
 				</div>
 				<div className="text-sm pl-6 pr-2 text-gray-200 flex flex-row items-center gap-3">
-					<div className="hidden: sm:block">Add Guest</div>
+					<div className="hidden sm:block">Add Guest</div>
 					<div className="p-2 bg-rose-500 rounded-full text-white">
 						<BiSearch />
 					</div>
